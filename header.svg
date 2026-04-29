@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150">
+  <style>
+    .mono { font-family: "Courier New", Courier, monospace; }
+    .title { fill: #e6edf3; }
+    .subtitle { fill: #8b949e; }
+    .accent { fill: #58a6ff; }
+    .cover { fill: #0d1117; }
+
+    @media (prefers-color-scheme: light) {
+      .title { fill: #24292f; }
+      .subtitle { fill: #57606a; }
+      .accent { fill: #0969da; }
+      .cover { fill: #ffffff; }
+    }
+  </style>
+
+  <text class="mono title" x="450" y="42" text-anchor="middle" font-size="28" font-weight="700">
+    Ruanizando.sh
+  </text>
+
+  <text class="mono accent" x="450" y="78" text-anchor="middle" font-size="17" font-weight="700">
+    Ruan Oliveira Moraes | SRE / DevOps Engineer
+  </text>
+
+  <text class="mono subtitle" x="450" y="112" text-anchor="middle" font-size="15">
+    Linux, automacao, observabilidade e servicos criticos
+  </text>
+
+  <rect class="cover" x="0" y="17" width="900" height="34">
+    <animate attributeName="x" from="0" to="900" begin="0.2s" dur="1.2s" fill="freeze" />
+  </rect>
+
+  <rect class="cover" x="0" y="57" width="900" height="28">
+    <animate attributeName="x" from="0" to="900" begin="1.5s" dur="1.6s" fill="freeze" />
+  </rect>
+
+  <rect class="cover" x="0" y="94" width="900" height="26">
+    <animate attributeName="x" from="0" to="900" begin="3.2s" dur="1.9s" fill="freeze" />
+  </rect>
+</svg>
