@@ -1,4 +1,4 @@
-# Diagnóstico e estabilização de falhas intermitentes do shell do Windows em uma estação de trabalho pessoal
+# Diagnóstico e estabilização de falhas intermitentes do Windows em uma estação de trabalho pessoal
 
 **Autor:** Ruan  
 **Data do estudo de caso:** abril e maio de 2026  
